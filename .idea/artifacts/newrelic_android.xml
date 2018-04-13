@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="newrelic.android">
+    <output-path>$PROJECT_DIR$/out/artifacts/newrelic_android</output-path>
+    <root id="archive" name="newrelic.android.jar">
+      <element id="module-output" name="com.newrelic.agent_main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/flatbuffers-java/1.6.0.3/c4dc3934f3e5b04d93007b79b868a33f72fc24d0/flatbuffers-java-1.6.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
